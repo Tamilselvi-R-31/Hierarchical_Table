@@ -1,13 +1,10 @@
-/* styles.css */
 
-/* Container to center the table */
 .table-container {
   margin: 20px;
   overflow-x: auto;
   font-family: Arial, sans-serif;
 }
 
-/* Style the table with alternating row colors */
 .styled-table {
   width: 100%;
   border-collapse: collapse;
@@ -31,7 +28,6 @@
   background-color: #f1f1f1;
 }
 
-/* Style for parent and child labels */
 .parent {
   font-weight: bold;
   background-color: #f9f9f9;
@@ -42,7 +38,6 @@
   background-color: #fafafa;
 }
 
-/* Input field styling */
 .input-field {
   width: 100px;
   padding: 5px;
@@ -51,7 +46,7 @@
   font-size: 14px;
 }
 
-/* Button styling */
+
 .allocate-button {
   padding: 8px 12px;
   background-color: #4CAF50;
@@ -66,7 +61,6 @@
   background-color: #45a049;
 }
 
-/* Bold styling for Grand Total row */
 .styled-table tr:last-child td {
   font-weight: bold;
   background-color: #f4f4f4;
